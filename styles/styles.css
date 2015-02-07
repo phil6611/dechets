@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 févr. 2015, 14:53:26
+    Author     : Philippe Poisse
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*
+Styles pour la carte
+*/
+
+#map {
+    display: block;
+    position: relative;
+    width: 90vw;
+    height: 50vh;
+    border: solid 1px black;
+}
